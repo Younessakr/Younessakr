@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding & Networking
 - 🌱 I’m currently learning Python, Java, C++
 - 💞️ I’m looking to collaborate on Python, C++
-- 📫 How to reach me LinkeDin @younes-sakr
+- 📫 How to reach me Linkedin @younes-sakr
 
 
 <!---
